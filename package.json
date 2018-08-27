@@ -1,0 +1,22 @@
+{
+  "name": "svgr-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manglobe/svgr-loader.git"
+  },
+  "author": "manglobe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manglobe/svgr-loader/issues"
+  },
+  "homepage": "https://github.com/manglobe/svgr-loader#readme",
+  "peerDependencies": {
+    "@svgr/webpack": "2.x"
+  }
+}
