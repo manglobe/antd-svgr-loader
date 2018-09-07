@@ -1,2 +1,2 @@
-import svgr from '@svgr/webpack';
-export default svgr;
+module.exports = require('@svgr/webpack');
+ 

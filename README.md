@@ -11,5 +11,5 @@ Link here for more info: https://github.com/smooth-code/svgr/tree/master/package
 <br>
 Just for this. XD
 
-[npm-badge]: https://img.shields.io/npm/v/svgr-loader.png?style=flat-square
-[npm]: https://www.npmjs.com/package/svgr-loader
+[npm-badge]: https://img.shields.io/npm/v/antd-svgr-loader.png?style=flat-square
+[npm]: https://www.npmjs.com/package/antd-svgr-loader
