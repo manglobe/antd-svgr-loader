@@ -1,4 +1,4 @@
-# svgr-loader
+# antd-svgr-loader
 [![npm package][npm-badge]][npm]
 
 ## description
