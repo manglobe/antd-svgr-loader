@@ -1,2 +1,2 @@
-module.exports = require('@svgr/webpack');
+module.exports = require('@svgr/webpack').default;
  
